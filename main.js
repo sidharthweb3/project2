@@ -1,8 +1,8 @@
 console.log('hello world');
 
 // MY SERVER
-Moralis.initialize("gY58LkSzc0p2qkoOzLlRFTjc2bFc0sdZRwvlPIaP");
-Moralis.serverURL = "https://z1i6a1fvozov.usemoralis.com:2053/server";
+Moralis.initialize("LouNXTEkVlhoEdOZtsblqx9udCNxCNbAKG0StdYl");
+Moralis.serverURL = "https://9dvhns92vjqq.usemoralis.com:2053/server";
 
 let homepage = "https://sidharthweb3.github.io/project2/index.html";
 let dashboard = "https://sidharthweb3.github.io/project2/dashboard.html";
